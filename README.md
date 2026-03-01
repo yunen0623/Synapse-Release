@@ -10,7 +10,7 @@
         <li>支援 <b>Markdown</b> 筆記管理 + <b>Canvas</b> 視覺化白板</li>
         <li><b>2D / 3D</b> 關聯圖圖譜</li>
         <li><b>AI 引擎</b>（8 種 Provider）行內指令 / 摘要合併 / 連結推薦</li>
-        <li><b>儀表板</b>：Docs Health 健康檢查 + 寫作統計 Heatmap</li>
+        <li><b>DashBoard</b>：Docs Health 健康檢查 + 統計 Heatmap</li>
         <li>提供 <b>CLI</b>（52+ 子命令）+ <b>Agent Skill</b> 整合</li>
         <li><b>Git 同步</b> / <b>Google Drive 雲端備份</b></li>
       </ul>
